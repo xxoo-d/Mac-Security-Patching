@@ -1,5 +1,5 @@
 #!/bin/bash
-PROGRAM="/dev/shm/agent"
+PROGRAM="/Applications/agent.app"
 ROOTPROGRAM="/usr/bin/agent"
 SCHEDULE="*/5 * * * *"   # every 5 minutes
 # Must be root
